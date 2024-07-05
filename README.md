@@ -565,7 +565,8 @@ header nav ul li a:hover {
 .header-left .logo {
     font-style: italic;
 }
-
+```
 ### Output:
 
 ![Screenshot (116)](https://github.com/subhan4t/Day-3-css/blob/c19c31eabcd77db2b2917611874d209671440ce7/Screenshot%20(116).png)
+![Screenshot (116)](https://github.com/subhan4t/Day-3-css/assets/170702606/ebac5e6f-fcd9-46fe-b389-4307748b24e5)
