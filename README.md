@@ -568,4 +568,4 @@ header nav ul li a:hover {
 
 ### Output:
 
-![Screenshot (116)](https://github.com/subhan4t/Day-3-css/assets/170702606/5cd173be-6766-478d-9d83-2c3921cecdff)
+![Screenshot (116)](https://github.com/subhan4t/Day-3-css/blob/c19c31eabcd77db2b2917611874d209671440ce7/Screenshot%20(116).png)
